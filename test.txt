@@ -1,0 +1,8 @@
+Sr no	Author	Year	Samples	Sheep	Goat	Area	E coli	Salmonella	Listeria spp.	Klebsiella pneumoniae	Klebsiella oxytoca	Cl. Perfringenes	Coliforms	Aeromonas spp.	S.aureus	B.cereus	B.subtilis	P.vulgaris	P.mirabilis	V. parahaemolyticus	Yersinia enterocolitica	Campylobacter jejuni	Enterococcus spp.
+1	Thakur et al.	2022			C	Gujarat	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2	Barbhudde et al	2000	60		C	Delhi/Bareily	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3	Barbhudde et al	2000	54	M		Delhi/Bareily	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4	Chandra & Garg	2006	11		C	Hisar	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10
+5	Singh & Sharma	2001	187		C	"Pantnagar, Bariely, Haldwani, Rudrapur"	0	0	0	50	6	0	0	0	0	0	0	0	0	0	0	0	0
+6	Rekha et al	2005	113		C		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7	Bhong et al.	2008	150	M		Anand	93	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
