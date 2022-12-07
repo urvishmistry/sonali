@@ -37,6 +37,7 @@ install.packages(meta)
 install.packages(metasens)
 install.packages(rio)
 install.packages(readxl)
+install.packages(metafor)
 
 ```
 ## Importing Data into R
