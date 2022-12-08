@@ -48,4 +48,14 @@ For importing data into R, we have to label the data as an object. An object can
 2. Enter the following command in R console to import data:
 
 ```
-meatbact=
+meatbact=read.csv('test.csv')
+
+```
+
+To visualise the data in a tabular form to check if it has been imported correctly, Enter the following command:
+
+```
+view(meatbact)
+
+```
+
