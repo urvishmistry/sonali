@@ -38,6 +38,9 @@ install.packages(metasens)
 install.packages(rio)
 install.packages(readxl)
 install.packages(metafor)
+install.packages("rmeta")
+install.packages("robumeta")
+install.packages("dplyr")
 
 ```
 ## Importing Data into R
@@ -49,7 +52,7 @@ For importing data into R, we have to label the data as an object. An object can
 
 ```
 meatbact=read.csv('test.csv')
-
+        
 ```
 
 To visualise the data in a tabular form to check if it has been imported correctly, Enter the following command:
