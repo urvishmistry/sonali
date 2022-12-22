@@ -33,11 +33,11 @@ If you have your data in a new sheet, skip these instructions. Otherwise, follow
 Type the following commands in R studio console. (Lower Left Pane)
 
 ```
-install.packages(meta)
-install.packages(metasens)
-install.packages(rio)
-install.packages(readxl)
-install.packages(metafor)
+install.packages("meta")
+install.packages("metasens")
+install.packages("rio")
+install.packages("readxl")
+install.packages("metafor")
 install.packages("rmeta")
 install.packages("robumeta")
 install.packages("dplyr")
