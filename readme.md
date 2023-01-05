@@ -51,6 +51,13 @@ For importing data into R, we have to label the data as an object. An object can
 2. Enter the following command in R console to import data:
 
 ```
+meatbact=read.csv('test.csv', header=TRUE)
+        
+```
+
+Please note here that by default header=TRUE argument is considered by R environment and need not to be specified. However, if after the next step, if you cannot visualize your headers in the table, you have to include the header=TRUE argument in the above command. Otherwise, just use:
+
+```
 meatbact=read.csv('test.csv')
         
 ```
@@ -59,6 +66,17 @@ To visualise the data in a tabular form to check if it has been imported correct
 
 ```
 view(meatbact)
+
+```
+## Loading the libraries
+Now that we have the data ready for R environment, let us go on to the more important part: Analysis
+
+The first step is to load the libraries that we may use. Libraries are the packages of the functions that we are going to use in the following process. So, the packages we downloaded at the start of meta-analysis process are now called as libraries. Here's how you call the libraries:
+
+```
+library("robumeta")
+library("metafor")
+library("dplyr")
 
 ```
 
